@@ -1,0 +1,8 @@
+{
+  "logDirectory" : "log",
+  "dataDirectory" : "data",
+  "requestTimer" : 2700,
+  "watchlist" : [
+    {"title":"Fefe Blog", "url":"https://blog.fefe.de"}
+  ]
+}
